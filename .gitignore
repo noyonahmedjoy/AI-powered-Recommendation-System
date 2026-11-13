@@ -1,1 +1,17 @@
-.ipynb_checkpoints
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
